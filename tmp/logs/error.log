@@ -1,0 +1,27 @@
+2013-11-15 04:54:28 Error: [MissingControllerException] Controller class UserController could not be found.
+Exception Attributes: array (
+  'class' => 'UserController',
+  'plugin' => NULL,
+)
+Request URL: /projects/Catedra2/user
+Stack Trace:
+#0 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\projects\Catedra2\webroot\index.php(101): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-11-15 04:55:16 Error: [MissingControllerException] Controller class UserController could not be found.
+Exception Attributes: array (
+  'class' => 'UserController',
+  'plugin' => NULL,
+)
+Request URL: /projects/Catedra2/user
+Stack Trace:
+#0 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\projects\Catedra2\webroot\index.php(101): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-11-15 04:57:33 Error: [MissingControllerException] Controller class UserController could not be found.
+Exception Attributes: array (
+  'class' => 'UserController',
+  'plugin' => NULL,
+)
+Request URL: /projects/Catedra2/user
+Stack Trace:
+#0 C:\Program Files\EasyPHP-DevServer-13.1VC9\data\localweb\projects\Catedra2\webroot\index.php(101): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
